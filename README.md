@@ -4,8 +4,9 @@ A reverse engineered Logitech G613 lightspeed PCB
 
 ![daughter board](https://user-images.githubusercontent.com/1764391/227828229-bd91c30f-06db-460b-8a7c-1ebef921f776.png)
 
-1. Keyboard turns on when 3 goes negative
-2. Bond 4 and 5 to disable game mode
+1. Pins 0, 1, 45, 46 are negative
+2. Keyboard turns on when 3 goes negative
+3. Bond 4 and 5 to disable game mode
 
 |   Key                   |   Column / Diode  |   Row  |
 |-------------------------|-------------------|--------|
