@@ -68,7 +68,7 @@ A reverse engineered Logitech G613 lightspeed PCB
 |   ‘ ”                   |   19              |   25   |
 |   RETURN                |   18              |   24   |
 |                         |                   |        |
-|   LSHIFT                |   37              |   23   |
+|   LSHIFT                |   37              |   22   |
 |   Z                     |   36              |   22   |
 |   X                     |   35              |   23   |
 |   C                     |   35              |   22   |
