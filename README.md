@@ -114,7 +114,7 @@ A reverse engineered Logitech G613 lightspeed PCB
 |                         |                   |        |
 |   7 / HOME              |   16              |   26   |
 |   8 / ARROW UP          |   16              |   25   |
-|   9 / PAGE UP           |   15              |   22   |
+|   9 / PAGE UP           |   15              |   25   |
 |   +                     |   15              |   24   |
 |                         |                   |        |
 |   4 / ARROW LEFT        |   16              |   24   |
