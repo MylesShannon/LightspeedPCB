@@ -84,7 +84,7 @@ A reverse engineered Logitech G613 lightspeed PCB
 |   LCTRL                 |   37              |   20   |
 |   LWIN                  |   36              |   21   |
 |   LALT                  |   36              |   20   |
-|   SPACE                 |   35              |   21   |
+|   SPACE                 |   35              |   20   |
 |   RALT                  |   32              |   20   |
 |   RWIN                  |   19              |   21   |
 |   CONTEXT               |   19              |   20   |
