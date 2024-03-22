@@ -36,7 +36,7 @@ A reverse engineered Logitech G613 lightspeed PCB
 |   9                     |   32              |   29   |
 |   0                     |   32              |   28   |
 |   - _                   |   19              |   29   |
-|   = +                   |   19              |   27   |
+|   = +                   |   19              |   28   |
 |   BACKSPACE             |   18              |   28   |
 |                         |                   |        |
 |   TAB                   |   37              |   26   |
